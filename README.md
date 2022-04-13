@@ -49,5 +49,5 @@ TODO
 [3rd Hungarian-Russian Combinatorics workshop, May 20-25, 2019](https://github.com/xm-repo/cv/blob/master/comb%20workshop.pdf)
 
 # книжки
-Ж. Сарамаго Перебои в смерти 
+Ж. Сарамаго. Перебои в смерти.
 
