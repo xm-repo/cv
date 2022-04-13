@@ -4,11 +4,11 @@
 
 C++ dev
 
-[Триафлай](https://triafly.ru/)
+[Триафлай](https://triafly.ru/) Nov 2021 - Dec 2022
 
 Python dev
 
-[Яндекс Практикум](https://praktikum.yandex.ru/) 
+[Яндекс Практикум](https://praktikum.yandex.ru/) Dec 2022 - 
 
 Python dev
 
