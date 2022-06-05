@@ -4,6 +4,11 @@
 
 [CMU 15-721 Advanced Database Systems @AndyPavlo](https://m.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
+# ddd
+
+Udi Dahan
+https://m.youtube.com/watch?v=RhfyP8pEEc4
+
 # philosophy
 
 [Harvard Justice @MichaelSandel](https://m.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
