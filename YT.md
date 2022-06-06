@@ -7,7 +7,10 @@
 # ddd
 
 Udi Dahan
+
 https://m.youtube.com/watch?v=RhfyP8pEEc4
+
+https://m.youtube.com/watch?v=fWU8ZK0Dmxs
 
 # philosophy
 
