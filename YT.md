@@ -6,6 +6,12 @@
 
 etcd https://m.youtube.com/watch?v=HJIjTTHWYnE
 
+# cs
+
+It Will Never Work in Theory: Live! · It Will Never Work in Theory
+https://neverworkintheory.org/events/
+https://m.youtube.com/playlist?list=PLcGKfGEEONaCC6Y_DR0mw04WghP2QjMSO
+
 # ddd
 
 Udi Dahan
