@@ -8,3 +8,12 @@ https://250bpm.com/blog:71/
 https://m.youtube.com/watch?v=oLkfnc_UMcE
 
 H2 h11
+
+
+https://m.youtube.com/watch?v=4Y3VdS2pLF4
+
+structured logging
+
+Structured concurrency
+
+Trunk based development
