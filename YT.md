@@ -27,3 +27,7 @@ https://m.youtube.com/watch?v=fWU8ZK0Dmxs
 [Harvard Justice @MichaelSandel](https://m.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
 
 [Yale Death @ShellyKagan](https://m.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+
+# k
+
+https://video.fosdem.org/2020/UD2.208/containers_k8s_runtimes.webm
