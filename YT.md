@@ -37,3 +37,5 @@ https://video.fosdem.org/2020/UD2.208/containers_k8s_runtimes.webm
 https://m.youtube.com/watch?v=4Se0_w0ISYk&feature=youtu.be
 
 https://m.youtube.com/watch?v=LBpqoj2nOQo
+
+https://m.youtube.com/watch?v=AS1OHMW873s
