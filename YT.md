@@ -14,6 +14,10 @@ https://m.youtube.com/playlist?list=PLcGKfGEEONaCC6Y_DR0mw04WghP2QjMSO
 
 https://dblp.org/
 
+## Idris
+
+https://m.youtube.com/watch?v=VxINoKFm-S4
+
 # ddd
 
 Udi Dahan
